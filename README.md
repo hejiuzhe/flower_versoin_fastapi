@@ -7,6 +7,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+English | [中文](README-zh.md)
+
 ## Features
 
 - Recognizes **102 flower species** trained on the Oxford 102 Flowers dataset
